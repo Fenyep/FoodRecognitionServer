@@ -1,0 +1,14 @@
+{
+  "name": "foodrecoginitionserver",
+  "version": "1.0.0",
+  "description": "FoodRecognition from images Coding Party server application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fenyep Wangue",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
